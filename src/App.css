@@ -1,0 +1,9 @@
+.navbar-all{
+    display: flex;
+    align-items: center;
+}
+
+.navbar-title{
+    display: flex;
+    align-items: center;
+}

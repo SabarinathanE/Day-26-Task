@@ -11,7 +11,7 @@ export default function All() {
                     <div className="navbar-all col-8">
                     <ul className="nav">
                     <li className="nav-item">
-                    <Link to="/all" style={{color:"white"}}>
+                    <Link to="/" style={{color:"white"}}>
                     <a className="nav-link active" aria-current="page" href="#" style={{color:"white"}}>
                         <h5>All</h5>
                         </a>

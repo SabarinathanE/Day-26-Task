@@ -63,14 +63,14 @@ function App() {
         "name": "Roles",
         "category": "ds",
         "content" : "Data science is a rapidly growing field that has become essential for businesses to thrive in the digital age. As organizations wrestle with large volumes of data, the need for skilled professionals who can extract valuable insights has skyrocketed.DataScience is vast topic to cover.",
-        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png"
+        "image": "https://iabac.org/blog/uploads/images/202307/image_870x_64ad296d30216.jpg"
       },
       {
         "id": 9,
         "name": "Interview",
         "category": "ds",
         "content" : "Amazon(US) tops the LinkedIn list of the top companies for 2nd time in a row! Moreover, in 2021, Amazon created more than 200,000 jobs in the US, where more than 1.1 million people are currently employed.When you start preparing for Amazon interviews, check this little guide below:",
-        "image": "https://www.guvi.in/blog/wp-content/uploads/2022/08/3.-Amazon-Data-Scientist-Interview.png"
+        "image": "https://cdn-images-1.medium.com/max/1200/1*E1haIGB9K4K89PsFZgm-pw.jpeg"
       }   
   ];
 

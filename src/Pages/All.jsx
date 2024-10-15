@@ -57,7 +57,7 @@ export default function Database() {
             "name": "Roles",
             "category": "ds",
             "content" : "Data science is a rapidly growing field that has become essential for businesses to thrive in the digital age. As organizations wrestle with large volumes of data, the need for skilled professionals who can extract valuable insights has skyrocketed.DataScience is vast topic to cover.",
-            "image": "https://iabac.org/blog/uploads/images/202307/image_870x_64ad296d30216.jpg"
+            "image": "https://i.ytimg.com/vi/yh2pLdDb87c/maxresdefault.jpg"
           },
           {
             "id": 9,
